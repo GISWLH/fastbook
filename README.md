@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![fastbook — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md)
 
 # The fastai book
@@ -36,3 +40,17 @@ publisher={O'Reilly Media, Incorporated}
 }
 ```
 
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有结果展示
+
+![课程第 1 章 Notebook 保存的街景语义分割目标与模型预测对照。](assets/readme/result.png)
+
+课程第 1 章 Notebook 保存的街景语义分割目标与模型预测对照。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/fastbook/blob/master/01_intro.ipynb)。
+
+<!-- /readme-visual-refresh:selected-result -->
